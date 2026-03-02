@@ -1,0 +1,32 @@
+body{
+background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+url(https://imgs.search.brave.com/XtSgOZKxfPIFmO-D9D0OaVTbWXk_vdktjjmGDNFOEcw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvdW5p/eC1zb2Z0d2FyZS1t/aW5pbWFsaXN0LWxv/Z28tcHdkaGE2bG5m/Y3VsMnQwYi5qcGc);
+
+
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+
+}
+h1{
+    color: rgb(80, 80, 232);
+}
+
+h2{
+    color: bisque;
+}
+
+li{
+    color: bisque;
+}
+
+
+p{
+    color: rgb(184, 117, 37);
+}
+
+img{
+    opacity: 80%;
+}
